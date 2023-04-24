@@ -158,20 +158,12 @@ Function Prototype:
   * Orders the deck from spades to diamonds and from aces to kings.
 
 
-## Authors
+## Author
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Ogugua Anthony</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Mohamed Ibrahima Traore</summary>
-    <ul
-    <li><a href="https://www.github.com/codivily">Github</a></li>
-    <li><a href="https://www.twitter.com/codivily">Twitter</a></li>
-    <li><a href="mailto:codivily@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/realthonie">Github</a></li>
+    <li><a href="https://www.twitter.com/realthonie_">Twitter</a></li>
+    <li><a href="mailto:oguguaanthony9@gmail.com">e-mail</a></li>
     </ul>
 </details>
